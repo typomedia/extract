@@ -12,7 +12,7 @@ Does in fact what is so easy to do in Linux, but not in Windows :/
     -h, --help
     -i, --input file     json input file
     -o, --output file    json output file
-    -b, --base64         bade64 encoded output string
+    -b, --base64         base64 encoded output string
     -r, --reverse        reverse the output string
 
 ## Examples
